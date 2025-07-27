@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+boto3
+transformers
+torch
+pydantic
+cryptography>=42.0.0
+dotenv
