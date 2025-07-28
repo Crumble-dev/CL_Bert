@@ -8,3 +8,4 @@ torch
 pydantic
 cryptography>=42.0.0
 dotenv
+pandas 
